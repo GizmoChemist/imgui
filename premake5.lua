@@ -11,12 +11,11 @@ project "ImGui"
 		"imgui.h",
 		"imgui.cpp",
 		"imgui_internal.h",
-		"imgui_internal.cpp",
 		"imgui_widgets.cpp",
 		"imstb_rectpack.h",
 		"imstb_textedit.h",
 		"imstb_truetype.h",
-		"imstb_demo.cpp",
+		"imgui_demo.cpp",
 	}
 
 	filter "system:windows"
